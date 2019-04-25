@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "groverlee-staging",
+    "staging": "groverlee-staging",
+    "production": "groverlee-production"
+  }
+}
