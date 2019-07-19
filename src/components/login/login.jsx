@@ -6,7 +6,7 @@ import './login.scss';
 const Login = ({email, password, handleOnChangeEmail, handleOnChangePassword, login}) => {
   return(
     <div className="container">
-      <h1 className="login__title">Login App</h1>
+      <h1 className="login__title">Login App Firebase</h1>
       <form>
         <div className="row">
           <div className="six columns">
